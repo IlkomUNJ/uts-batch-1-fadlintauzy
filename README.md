@@ -6,5 +6,5 @@ NIM  : 1313623068
 
 Class: B Batch 2 (A/B)
 
-Gemini Prompt History: https://gemini.google.com/share/03ef6420b8a0
+Gemini Prompt History: https://gemini.google.com/share/51cedf20147a
 
